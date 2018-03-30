@@ -37,7 +37,7 @@ metadata:
   name: rest-jscreditscore-svc11
 spec:
   selector:
-    run: rest-jscreditscore
+    run: rest-jscreditscore11
   ports:
     - port: 8111
       targetPort: 3000
